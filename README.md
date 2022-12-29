@@ -1,4 +1,4 @@
-- 👋 Hi, I’m olivier leger
+hello 
 - 👀 I’m interested in nintendo homebrew
 - 🌱 I’m currently learning how to homebrew
 - 💞️ I’m looking to collaborate on ... nothing
